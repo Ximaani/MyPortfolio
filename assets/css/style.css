@@ -282,7 +282,7 @@ a:hover{
 }
 
 @media (max-width: 767px){
-    .home-image .img{        
+    .home-image img{        
         height: 300px;
         width: 300px;
     }
